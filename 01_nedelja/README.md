@@ -65,11 +65,11 @@ Napisati program koji od korisnika učitava dva niza realnih brojeva i spaja ih 
 
 __Primer:__
 
-$$
+```
 prvi niz = [3.5, 3.1, 3.3]
 drugi niz = [1.5 7.2 3.3 4.0]
 rezultat = [1.5, 7.2, 3.3, 4, 3.5, 3.1, 3.3]
-$$
+```
 
 ## 5. zadatak
 
