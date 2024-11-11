@@ -10,6 +10,7 @@ __1. kolokvijum:__
 - [1. nedelja](./01_nedelja/)
 - [2. nedelja](./02_nedelja/)
 - [3. nedelja](./03_nedelja/)
+- [4. nedelja](./04_nedelja/)
 
 ## Autori
 
