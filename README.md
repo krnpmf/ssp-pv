@@ -11,10 +11,12 @@ __1. kolokvijum:__
 - [2. nedelja](./02_nedelja/)
 - [3. nedelja](./03_nedelja/)
 - [4. nedelja](./04_nedelja/)
+- [5. nedelja](./05_nedelja/)
 
 ## Autori
 
 - Dušica Knežević <lucy@dmi.uns.ac.rs>
+- Dušan Simić <dusan.simic@dmi.uns.ac.rs>
 
 ## Licenca
 
