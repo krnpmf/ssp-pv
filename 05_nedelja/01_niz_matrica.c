@@ -33,5 +33,8 @@ int main()
     printf("\n");
   }
 
+  free(m);
+  free(niz);
+
   return 0;
 }

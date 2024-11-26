@@ -104,5 +104,11 @@ int main()
   // qsort(m, n, sizeof(float *), comp_mean);
   qsort(m, n, sizeof(float *), comp_geom);
 
+  for (int i = 0; i < n; i++)
+  {
+    free(*(m + i));
+  }
+  free(m);
+
   return 0;
 }
