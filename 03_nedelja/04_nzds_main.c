@@ -1,10 +1,13 @@
-#include<stdio.h>
-#include "nzds.h"
+#include <stdio.h>
+#include "04_nzds.h"
 
-int main() {
+int main()
+{
 
-    for(int i = 2; i <= 20; i++) {
-        for(int j = 1; j < i; j++) {
+    for (int i = 2; i <= 20; i++)
+    {
+        for (int j = 1; j < i; j++)
+        {
             int rez_nzd = nzd(i, j);
             int rez_nzs = nzs(i, j);
 

@@ -1,12 +1,14 @@
-#include<stdio.h>
+#include <stdio.h>
 #define PI 3.14
 
-void p_o(float r, float* o, float* p) {
-    *o = 2*r*PI;
-    *p = r*r*PI;
+void p_o(float r, float *o, float *p)
+{
+    *o = 2 * r * PI;
+    *p = r * r * PI;
 }
 
-int main() {
+int main()
+{
 
     float r, o, p;
 

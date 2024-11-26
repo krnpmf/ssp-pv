@@ -1,13 +1,15 @@
-#include<stdio.h>
+#include <stdio.h>
 
 const float g = 9.81;
 
-void v_h(float t, float* v, float* h) {
+void v_h(float t, float *v, float *h)
+{
     *v = g * t;
-    *h = (g * t * t)/2;
-} 
+    *h = (g * t * t) / 2;
+}
 
-int main() {
+int main()
+{
 
     float t, v, h;
     printf("Unesite t: ");
